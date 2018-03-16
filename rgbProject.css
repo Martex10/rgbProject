@@ -1,0 +1,40 @@
+body{
+    background-color: #232323;
+    margin:0;
+    font-family: "Avenir", "Montserrat";
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: steelblue;
+    margin: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.square{
+    width:30%;
+    margin:1.66%;
+    background-color: purple;
+    padding-bottom:30%;
+    float: left;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#message{
+    color: black;
+}
+
+span{
+    color: white;
+}
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+.selected {
+    background-color: blue;
+}
